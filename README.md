@@ -7,7 +7,7 @@ Writed with TUFileReader_.
 use : call TUGVisualizer#startDataSync create config.tdata
 
 vars: -> config.tdata (it is a window config file you can set width,height,title,graphic point,other file paths)
-title:
+$title:
 width:
 height:
 point_x:
