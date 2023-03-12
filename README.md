@@ -1,7 +1,7 @@
 # TUDataHelper
 data helper and visual graphic printer
 
-Writed with TUFileReader_.
+Writed with TUFileWriter_.
 # begin:
 
 use : call TUGVisualizer#startDataSync create config.tdata
