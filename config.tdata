@@ -1,0 +1,9 @@
+title: test
+width: 5
+height: 400
+point_x: 40
+point_y: 50
+dw_column_file_name: time_day
+up_column_file_name: hp_thousand
+data_points_file_name: dpoints
+

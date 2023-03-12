@@ -1,0 +1,6 @@
+test: {x=10,y=100}
+test_2: {x=20,y=200}
+
+
+
+names: {test,test_2}
